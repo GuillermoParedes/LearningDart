@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Palenight Theme",
+		"editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+		"editor.cursorStyle": "line",
+		"editor.cursorSmoothCaretAnimation": true
+
+	}
+}
