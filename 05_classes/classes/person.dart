@@ -7,7 +7,7 @@ class Person {
 
   String get info => '$name $age $_live'.toUpperCase();
   
-
+  void set info(newValue) => _live = newValue;
 
   // String get info {
   //   return '$name $age $_live'.toUpperCase();

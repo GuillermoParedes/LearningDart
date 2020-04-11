@@ -12,6 +12,10 @@ main() {
         ..age = 29;
         // .._live = 'He lives in Bolivia';
   print(person.info);
+
+  person.info = 'He lives in Ireland';
+
+  print(person.info);
 }
 
 
