@@ -1,6 +1,8 @@
 import 'dart:io';
 
-import '../03_funciones/task.dart';
+import '../03_functions/task.dart';
+
+
 
 main() async {
   String path = Directory.current.path + '/04_tipos_nocomunes/assets/people.txt';
